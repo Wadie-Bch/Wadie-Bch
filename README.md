@@ -6,37 +6,45 @@
 
 ## About Me 🚀
 
-I'm Wadie Coder, a skilled and passionate freelance developer specializing in modern web and mobile app development, tech education, IT consulting, and support. With expertise in the LIRT stack (Laravel, Inertia.js, React, Tailwind CSS), I deliver creative and efficient solutions tailored to meet client needs.
+I'm Wadie Coder, a skilled and passionate freelance developer specializing in modern web and mobile app development, tech education, IT consulting, and support. With expertise in the LIRT stack (Laravel, Inertia.js, React, Tailwind CSS) As Well as Python, I deliver creative and efficient solutions tailored to meet client needs.
 
 ### What I Do 💡
-- Build scalable e-commerce platforms
+- Build scalable platforms
 - Design production management tools
 - Share tech knowledge and insights
 - Offer IT consulting and support
 - Develop seamless web and mobile applications
+- IT content creation and blogging
 
 ## Tech Stack 🛠️
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Inertia.js-563D7C?style=for-the-badge&logo=inertia&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /></a>
+  <a href="https://inertiajs.com/" target="_blank"><img src="https://img.shields.io/badge/Inertia.js-563D7C?style=for-the-badge&logo=inertia&logoColor=white" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
+  <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="https://expo.dev/" target="_blank"><img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" /></a>
 </div>
 
 ## Let's Connect! 🌐
 
 <div align="center">
   <a href="https://www.instagram.com/wadie.coder" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://medium.com/@wadiecoder" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
   <a href="https://www.wadiecoder.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://chat.whatsapp.com/CBkGvadQ91J9iiBpnSbGkN" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Community" />
+  </a>
+  <a href="mailto:wadie@wadiecoder.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
