@@ -34,7 +34,7 @@ I'm Wadie Bch, a skilled and passionate freelance developer and IT content creat
   <a href="https://www.instagram.com/wadie.bch" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://medium.com/@wadiecoder" target="_blank">
+  <a href="https://medium.com/@wadie_bch" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
   <a href="https://www.wadie-bch.com" target="_blank">
