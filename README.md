@@ -6,7 +6,7 @@
 
 ## About Me 🚀
 
-I'm Wadie bch, a skilled and passionate freelance developer specializing in modern web and mobile app development, tech education, IT consulting, and support. With expertise in the LIRT stack (Laravel, Inertia.js, React, Tailwind CSS) As Well as Python, I deliver creative and efficient solutions tailored to meet client needs.
+I'm Wadie Bch, a skilled and passionate freelance developer and IT content creator specializing in modern web and mobile app development, tech education, IT consulting, and support. With expertise in the pyLIRT stack (Laravel, Inertia.js, React, Tailwind CSS)  I deliver creative and efficient solutions tailored to meet client needs.
 
 ### What I Do 💡
 - Build scalable platforms
@@ -34,10 +34,10 @@ I'm Wadie bch, a skilled and passionate freelance developer specializing in mode
   <a href="https://www.instagram.com/wadie.bch" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://medium.com/@wadiebch" target="_blank">
+  <a href="https://medium.com/@wadiecoder" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="https://www.wadiebch.com" target="_blank">
+  <a href="https://www.wadie-bch.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://chat.whatsapp.com/CBkGvadQ91J9iiBpnSbGkN" target="_blank">
