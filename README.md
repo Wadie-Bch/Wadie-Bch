@@ -1,4 +1,4 @@
-# Hi there, I'm Wadie Coder 👋
+# Hi there, I'm Wadie Bch 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3F97F7&center=true&vCenter=true&width=435&lines=Freelance+Developer+%F0%9F%93%88;Laravel+Expert+%F0%9F%92%BB;Tech+Educator+%F0%9F%8E%93" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 ## About Me 🚀
 
-I'm Wadie Coder, a skilled and passionate freelance developer specializing in modern web and mobile app development, tech education, IT consulting, and support. With expertise in the LIRT stack (Laravel, Inertia.js, React, Tailwind CSS) As Well as Python, I deliver creative and efficient solutions tailored to meet client needs.
+I'm Wadie bch, a skilled and passionate freelance developer specializing in modern web and mobile app development, tech education, IT consulting, and support. With expertise in the LIRT stack (Laravel, Inertia.js, React, Tailwind CSS) As Well as Python, I deliver creative and efficient solutions tailored to meet client needs.
 
 ### What I Do 💡
 - Build scalable platforms
@@ -31,19 +31,19 @@ I'm Wadie Coder, a skilled and passionate freelance developer specializing in mo
 ## Let's Connect! 🌐
 
 <div align="center">
-  <a href="https://www.instagram.com/wadie.coder" target="_blank">
+  <a href="https://www.instagram.com/wadie.bch" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://medium.com/@wadiecoder" target="_blank">
+  <a href="https://medium.com/@wadiebch" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="https://www.wadiecoder.com" target="_blank">
+  <a href="https://www.wadiebch.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://chat.whatsapp.com/CBkGvadQ91J9iiBpnSbGkN" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Community" />
   </a>
-  <a href="mailto:wadie@wadiecoder.com">
+  <a href="mailto:wadie@wadiebch.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
