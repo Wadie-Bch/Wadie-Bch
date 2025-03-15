@@ -23,23 +23,16 @@ I'm Wadie Bch, a passionate and skilled **Full-Stack Developer** and **Tech Cons
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
   <a href="https://inertiajs.com/" target="_blank"><img src="https://img.shields.io/badge/Inertia.js-563D7C?style=for-the-badge&logo=inertia&logoColor=white" /></a>
   <a href="https://expo.dev/" target="_blank"><img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 </div>
 
-## Featured Projects 🚀
+## Explore My Work 🚀
 
-Here are some of the projects I’ve worked on:
-
-### **SyndiManage**  
-A SaaS platform for property management, built with Laravel and ReactJS.  
-[View Project](https://www.syndimanage.com)
-
-### **CVFY.ma**  
-A professional CV generator tailored for the Moroccan job market.  
-[View Project](https://cvfy.ma)
-
-### **TeamWork CRM**  
-A simple CRM for collaborative project management.  
-[View Project](https://teamwork.wadie-bch.com)
+<div align="center">
+  <a href="https://www.wadie-bch.com" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_My_Platform-3F97F7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit My Platform" />
+  </a>
+</div>
 
 ---
 
