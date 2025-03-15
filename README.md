@@ -26,11 +26,13 @@ I'm Wadie Bch, a passionate and skilled **Full-Stack Developer** and **Tech Cons
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 </div>
 
+---
+
 ## Explore My Work 🚀
 
 <div align="center">
   <a href="https://www.wadie-bch.com" target="_blank">
-    <img src="https://img.shields.io/badge/Visit_My_Platform-3F97F7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit My Platform" />
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Platform-3F97F7?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000" alt="Visit My Platform" />
   </a>
 </div>
 
@@ -40,10 +42,10 @@ I'm Wadie Bch, a passionate and skilled **Full-Stack Developer** and **Tech Cons
 
 <div align="center">
   <a href="https://www.linkedin.com/in/wadie-bch" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/wadie.bch/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram" />
   </a>
 </div>
 
