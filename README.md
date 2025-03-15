@@ -49,7 +49,6 @@ I'm Wadie Bch, a passionate and skilled **Full-Stack Developer** and **Tech Cons
   </a>
 </div>
 
----
 
 <div align="center">
   <i>Always striving to innovate and grow in the tech world! 🌱</i>
