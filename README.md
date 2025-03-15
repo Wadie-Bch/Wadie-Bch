@@ -32,7 +32,7 @@ I'm Wadie Bch, a passionate and skilled **Full-Stack Developer** and **Tech Cons
 
 <div align="center">
   <a href="https://www.wadie-bch.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Platform-3F97F7?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000" alt="Visit My Platform" />
+    <img src="https://img.shields.io/badge/Visit_My_Platform-3F97F7?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000" alt="Visit My Platform" />
   </a>
 </div>
 
@@ -49,7 +49,6 @@ I'm Wadie Bch, a passionate and skilled **Full-Stack Developer** and **Tech Cons
   </a>
 </div>
 
----
 
 <div align="center">
   <i>Always striving to innovate and grow in the tech world! 🌱</i>
